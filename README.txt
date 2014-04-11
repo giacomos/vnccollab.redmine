@@ -1,7 +1,7 @@
 .. contents::
 
 vnccollab.redmine
-================
+=================
 
 Overview
 --------
